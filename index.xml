@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Umaru Web</title>
+    <link>https://umarucreative.github.io/agencedigitale/</link>
+    <description>Recent content on Umaru Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://umarucreative.github.io/agencedigitale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google My Business</title>
+      <link>https://umarucreative.github.io/agencedigitale/google-my-business/</link>
+      <pubDate>Wed, 28 Dec 2022 20:25:08 +0100</pubDate>
+      
+      <guid>https://umarucreative.github.io/agencedigitale/google-my-business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Site web soigné par Umaru</title>
+      <link>https://umarucreative.github.io/agencedigitale/site-web/</link>
+      <pubDate>Tue, 22 Nov 2022 20:11:05 +0100</pubDate>
+      
+      <guid>https://umarucreative.github.io/agencedigitale/site-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single</title>
+      <link>https://umarucreative.github.io/agencedigitale/single/</link>
+      <pubDate>Tue, 22 Nov 2022 17:50:53 +0100</pubDate>
+      
+      <guid>https://umarucreative.github.io/agencedigitale/single/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
